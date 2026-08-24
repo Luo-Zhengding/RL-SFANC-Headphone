@@ -1,0 +1,7 @@
+torch>=1.12
+torchaudio>=0.12
+numpy
+pandas
+gymnasium
+stable-baselines3
+tensorboard
